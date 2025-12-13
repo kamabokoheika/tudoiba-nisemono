@@ -4,7 +4,7 @@ function menu() {
   menudiv = document.getElementsByClassName("menu")[0];
   menudiv.innerHTML = `
     <div class="menutitle">メニュー</div>
-    ・<a href="https://maicra999.cc/">本家サイト</a><br>
+    ・<a href="https://maicra999.cc/" target="_blank">本家サイト</a><br>
     ・<a href="/index.html">ホーム</a><br>
     ・<a href="/join.html">参加方法</a><br>
     ・<a href="/rules.html">ルール</a><br>
@@ -16,6 +16,6 @@ function menu() {
     ┣<a href="/wiki/db.html">構造物&ﾊﾞｲｵｰﾑ関連</a><br>
     ┣<a href="/wiki/enchant.html">エンチャント関連</a><br>
     ┗<a href="/wiki/other.html">その他</a><br>
-    ・<a href="https://map.maicra999.cc/">マップ</a><br>
+    ・<a href="https://map.maicra999.cc/" target="_blank">マップ</a><br>
   `;
 }
