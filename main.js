@@ -10,6 +10,7 @@ function menu() {
     ・<a href="/rules.html">ルール</a><br>
     ・<a href="/faq.html">よくある質問</a><br>
     ・<a href="/vote.html">投票</a><br>
+    ・<a href="/server.html">連携サーバー</a><br>
     ・<a href="/wiki/index.html">wiki</a><br>
     ┣<a href="/wiki/kihon.html">基本的なやつ</a><br>
     ┣<a href="/wiki/economy.html">経済関連</a><br>
