@@ -73,6 +73,11 @@ body {
   background-color: slategray;
 }
 
+.sabatagu {
+  background-color: peru;
+  font-family: Misakigothic, sans-serif;
+}
+
 .footer {
   clear: both;
   background-color: burlywood;
@@ -84,4 +89,23 @@ body {
 .footermoji {
   font-size: 10px;
   text-align: center;
+}
+
+
+/*サーバータグ用のやつ*/
+
+.kiiro {
+  color: gold;
+}
+
+.remon {
+  color: yellow;
+}
+
+.haiiro {
+  color: silver;
+}
+
+.siro {
+  color: white;
 }
