@@ -13,6 +13,7 @@ function menu() {
     ・<a href="/server.html">加盟サーバー</a><br>
     ・<a href="/wiki/index.html">wiki</a><br>
     ┣<a href="/wiki/kihon.html">基本的なやつ</a><br>
+    ┣<a href="/wiki/command.html">コマンド</a><br>
     ┣<a href="/wiki/economy.html">経済関連</a><br>
     ┣<a href="/wiki/db.html">構造物&ﾊﾞｲｵｰﾑ関連</a><br>
     ┣<a href="/wiki/enchant.html">エンチャント関連</a><br>
